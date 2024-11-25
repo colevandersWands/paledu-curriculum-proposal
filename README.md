@@ -64,91 +64,76 @@ around this repository so you're ready to roll on day 1.
 Learn the workflows you need to develop individually and in a group.
 
 - **Week 1**: Chapters 0, 1, 2, 3 - _Local/remote workflows for **individual and
-  collaborative development**._
-  - **Individual Deliverable**:
-    [Student Bio PR](https://github.com/DeNepo/workflows/blob/main/deliverables/student-bio-pr.md)
-  - **Collaborative Deliverable**:
-    [Group Intro Repo](https://github.com/DeNepo/workflows/blob/main/deliverables/group-introduction-repo.md)
+  collaborative development**._ - **Individual Deliverable**:
+  [Student Bio PR](https://github.com/DeNepo/workflows/blob/main/deliverables/student-bio-pr.md) -
+  **Collaborative Deliverable**:
+  [Group Intro Repo](https://github.com/DeNepo/workflows/blob/main/deliverables/group-introduction-repo.md)
 
-### [2. Welcome to JS](https://github.com/DeNepo/welcome-to-js): 3 weeks
+### [2. Agile Development](https://github.com/hackyourfuturebelgium/agile-development): 2 weeks
 
-> [check-ins](https://github.com/DeNepo/kiwi-pilot-sandbox/issues/?q=milestone%3A"2.%20Welcome%20to%20JS"+label%3Acheck-in)
+> [check-ins](https://github.com/DeNepo/kiwi-pilot-sandbox/issues/?q=milestone%3A"2.%20Agile%20Development"+label%3Acheck-in)
 > |
-> [deliverables board](https://github.com/orgs/DeNepo/projects/2/views/1?filterQuery=milestone%3A"2.%20Welcome%20to%20JS"+label%3Adeliverable)
+> [deliverables board](https://github.com/orgs/DeNepo/projects/2/views/1?filterQuery=milestone%3A"2.%20Agile%20Development"+label%3Adeliverable)
 > |
-> [retros](https://github.com/DeNepo/kiwi-pilot-sandbox/issues/?q=milestone%3A"2.%20Welcome%20to%20JS"+label%3Aretro+label%3Acheck-in)
+> [retros](https://github.com/DeNepo/kiwi-pilot-sandbox/issues/?q=milestone%3A"2.%20Agile%20Development"+label%3Aretro+label%3Acheck-in)
 > || [milestone](https://github.com/DeNepo/kiwi-pilot-sandbox/milestone/3)
 
-Learn to understand, discuss, modify and develop interactive programs.
+Practice collaboratively planning and developing HTML/CSS websites.
 
-- **Week 1**: Chapters 0s, 1, 2 - _Understand **the big picture** of software
-  development and master **just enough JavaScript** to build your foundations._
-- **Week 2**: Chapter 3 - _Learn different ways to **understand** a program._
-- **Week 3**: Chapter 4 - _Practice different skills involved in **developing**
-  programs._
-  - **Collaborative Deliverable**: Plan and develop a web page using _Just
-    Enough JavaScript_ and the _DOM I/O_ library.
+- **Week 1**: Chapters 0, 1 - Following Plans
+  - Lesson Plan:
+    [Planning and Collaborating](https://github.com/HackYourFutureBelgium/agile-development/blob/master/lesson-plans/planning-and-collaborating.md)
+  - Deliverable:
+    [All About Trees](https://github.com/HackYourFutureBelgium/agile-development/blob/master/deliverables/all-about-trees)
+- **Week 2**: Chapter 2 - Writing Plans
+  - Lesson Plan:
+    [User-Centered Development](https://github.com/HackYourFutureBelgium/agile-development/blob/master/lesson-plans/user-centered-development.md)
+  - Deliverable:
+    [Loruki Rebuild](https://github.com/HackYourFutureBelgium/agile-development/blob/master/deliverables/loruki-rebuild.md)
+- **Break Week!**
+- **Week 3**: Chapter 3 - Adapting Plans
+  - Lesson Plan:
+    [Being Agile](https://github.com/HackYourFutureBelgium/agile-development/blob/master/lesson-plans/being-agile.md)
+  - Deliverable: Begin
+    [HYF Redesign](https://github.com/HackYourFutureBelgium/agile-development/blob/master/deliverables/hyf-redesign.md)
 
-### [3. Inside JS](https://github.com/DeNepo/inside-js): 3 weeks
+### [3. UX/UI Design](https://github.com/hackyourfuturebelgium/ux-ui-design): 3 weeks
 
-> [check-ins](https://github.com/DeNepo/kiwi-pilot-sandbox/issues/?q=milestone%3A"3.%20Inside%20JS"+label%3Acheck-in)
+> [check-ins](https://github.com/DeNepo/kiwi-pilot-sandbox/issues/?q=milestone%3A"3.%20UX%2FUI%20Design"+label%3Acheck-in)
 > |
-> [deliverables board](https://github.com/orgs/DeNepo/projects/2/views/1?filterQuery=milestone%3A"3.%20Inside%20JS"+label%3Adeliverable)
+> [deliverables board](https://github.com/orgs/DeNepo/projects/2/views/1?filterQuery=milestone%3A"3.%20UX%2FUI%20Design"+label%3Adeliverable)
 > |
-> [retros](https://github.com/DeNepo/kiwi-pilot-sandbox/issues/?q=milestone%3A"3.%20Inside%20JS"+label%3Aretro+label%3Acheck-in)
+> [retros](https://github.com/DeNepo/kiwi-pilot-sandbox/issues/?q=milestone%3A"3.%20UX%2FUI%20Design"+label%3Aretro+label%3Acheck-in)
 > || [milestone](https://github.com/DeNepo/kiwi-pilot-sandbox/milestone/4)
 
-Take a deep dive into JavaScript; explore some it's trickiest features and how
-to use them.
+Explore design thinking process and placing your users at the center of your
+development process.
 
-- **Week 1**: Chapters 0s, 1, 2, 3 - _Use **just enough DOM** to write
-  interactive programs using control flow._
-- **Week 2**: Chapters 4, 5, 6, 7 - _Use functions to **abstract away** your
-  program's implementation._
-- **Week 3**: Chapters 8, 9, 10 - _Use arrays and objects to store **program
-  state** between interactions._
-  - **Collaborative Deliverable**: Plan and develop a stateful web page using
-    _Just Enough DOM_.
+- **Week 1**: Chapter 1
+  - Lesson Plan:
+    [Design Thinking](https://github.com/HackYourFutureBelgium/ux-ui-design/blob/master/lesson-plans/design-thinking.md)
+  - Deliverable:
+    [Practical Case](https://github.com/HackYourFutureBelgium/ux-ui-design/blob/master/deliverables/practical-case.md)
+- **Week 2**: Chapters 2, 3
+  - Lesson Plan:
+    [Gestalt Principles & Figma](https://github.com/HackYourFutureBelgium/ux-ui-design/blob/master/lesson-plans/gestalt-and-figma.md)
+  - Deliverable:
+    [Co-Design your Home Page](https://github.com/HackYourFutureBelgium/ux-ui-design/blob/master/deliverables/co-design-your-home-page)
+- **Week 3**: Chapter 4 - Accessibility
+  - Lesson Plan: TBD
+  - Deliverable: A fully accessible portfolio page co-developed with classmates.
 
-### [4. Behavior, Strategy, Implementation](https://github.com/DeNepo/behavior-strategy-implementation): 3 weeks
+### [4. Client Facing Project](): 4 weeks
 
-> [check-ins](https://github.com/DeNepo/kiwi-pilot-sandbox/issues/?q=milestone%3A"4.%20Behavior%2C%20Strategy%2C%20Implementation"+label%3Acheck-in)
+> [check-ins](https://github.com/DeNepo/kiwi-pilot-sandbox/issues/?q=milestone%3A"4.%20Client-Facing%20Project"+label%3Acheck-in)
 > |
-> [deliverables board](https://github.com/orgs/DeNepo/projects/2/views/1?filterQuery=milestone%3A"4.%20Behavior%2C%20Strategy%2C%20Implementation"+label%3Adeliverable)
+> [deliverables board](https://github.com/orgs/DeNepo/projects/2/views/1?filterQuery=milestone%3A"4.%20Client-Facing%20Project"+label%3Adeliverable)
 > |
-> [retros](https://github.com/DeNepo/kiwi-pilot-sandbox/issues/?q=milestone%3A"4.%20Behavior%2C%20Strategy%2C%20Implementation"+label%3Aretro+label%3Acheck-in)
+> [retros](https://github.com/DeNepo/kiwi-pilot-sandbox/issues/?q=milestone%3A"4.%20Client-Facing%20Project"+label%3Aretro+label%3Acheck-in)
 > || [milestone](https://github.com/DeNepo/kiwi-pilot-sandbox/milestone/5)
 
-Explore problem solving in JavaScript, learn to understand, write and review
-solutions to JS coding challenges.
-
-- **Week 1**: Chapters 0s, 1 - _**Analyze** and **Remix** other people's
-  solutions to coding challenges._
-- **Week 2**: Chapter 2 - _**Write** solutions to coding challenges at your
-  level._
-- **Week 3**: Chapter 3 - _**Review** your classmate's solutions to coding
-  challenges._
-  - **Collaborative Deliverable**: Solutions and reviews in a group repository.
-
-### [5. Learning in Public](): 2 weeks
-
-> [check-ins](https://github.com/DeNepo/kiwi-pilot-sandbox/issues/?q=milestone%3A"5.%20Learning%20in%20Public"+label%3Acheck-in)
-> |
-> [deliverables board](https://github.com/orgs/DeNepo/projects/2/views/1?filterQuery=milestone%3A"5.%20Learning%20in%20Public"+label%3Adeliverable)
-> |
-> [retros](https://github.com/DeNepo/kiwi-pilot-sandbox/issues/?q=milestone%3A"5.%20Learning%20in%20Public"+label%3Aretro+label%3Acheck-in)
-> || [milestone](https://github.com/DeNepo/kiwi-pilot-sandbox/milestone/6)
-
-In groups of 2-3 you will research and write a tutorial about any topic that
-builds on what you've learned so far.
-
-- **Week 1**: Research - _Select your topic and study it._
-  - **Collaborative Deliverable**: A repository with your shared notes, study
-    resources and any practice exercises/projects you studied.
-- **Week 2**: Share - _Create a tutorial to share what you learned._
-  - **Collaborative Deliverable**: A tutorial with additional study resources,
-    in a format that works well for your topic. This could be a video, a blog
-    post, a repository of exercises, ... follow your inspiration!
+We find real (or mock) clients for teams of 2-3 learners to build a landing page
+for. These can be individuals, businesses, non-profits, ... TBD
 
 ---
 
