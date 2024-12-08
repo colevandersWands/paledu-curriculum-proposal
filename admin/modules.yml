@@ -79,11 +79,17 @@ path:
     weeks: 3
     state: open
     milestone: 4
-  - name: 4. Client-Facing Project
+  - name: 4. Component-Based Design with Next.js
+    description: >-
+      Learn to build static pages with component-based design & Next.js.
+    weeks: 1
+    state: open
+    milestone: 5
+  - name: 5. Client-Facing Project
     description: >-
       We find real (or mock) clients for teams of 2-3 learners to build a
       landing page for.  These can be individuals, businesses, non-profits, ...
       TBD
     weeks: 4
     state: open
-    milestone: 5
+    milestone: 6

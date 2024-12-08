@@ -123,14 +123,25 @@ development process.
   - Lesson Plan: TBD
   - Deliverable: A fully accessible portfolio page co-developed with classmates.
 
-### [4. Client Facing Project](): 4 weeks
+### [4. Component Based Design with Next.js](): 1 week
 
-> [check-ins](https://github.com/DeNepo/kiwi-pilot-sandbox/issues/?q=milestone%3A"4.%20Client-Facing%20Project"+label%3Acheck-in)
+> [check-ins](https://github.com/DeNepo/kiwi-pilot-sandbox/issues/?q=milestone%3A"4.%20Component-Based%20Design%20with%20Next.js"+label%3Acheck-in)
 > |
-> [deliverables board](https://github.com/orgs/DeNepo/projects/2/views/1?filterQuery=milestone%3A"4.%20Client-Facing%20Project"+label%3Adeliverable)
+> [deliverables board](https://github.com/orgs/DeNepo/projects/2/views/1?filterQuery=milestone%3A"4.%20Component-Based%20Design%20with%20Next.js"+label%3Adeliverable)
 > |
-> [retros](https://github.com/DeNepo/kiwi-pilot-sandbox/issues/?q=milestone%3A"4.%20Client-Facing%20Project"+label%3Aretro+label%3Acheck-in)
+> [retros](https://github.com/DeNepo/kiwi-pilot-sandbox/issues/?q=milestone%3A"4.%20Component-Based%20Design%20with%20Next.js"+label%3Aretro+label%3Acheck-in)
 > || [milestone](https://github.com/DeNepo/kiwi-pilot-sandbox/milestone/5)
+
+Learn to build static pages with component-based design & Next.js.
+
+### [5. Client Facing Project](): 4 weeks
+
+> [check-ins](https://github.com/DeNepo/kiwi-pilot-sandbox/issues/?q=milestone%3A"5.%20Client-Facing%20Project"+label%3Acheck-in)
+> |
+> [deliverables board](https://github.com/orgs/DeNepo/projects/2/views/1?filterQuery=milestone%3A"5.%20Client-Facing%20Project"+label%3Adeliverable)
+> |
+> [retros](https://github.com/DeNepo/kiwi-pilot-sandbox/issues/?q=milestone%3A"5.%20Client-Facing%20Project"+label%3Aretro+label%3Acheck-in)
+> || [milestone](https://github.com/DeNepo/kiwi-pilot-sandbox/milestone/6)
 
 We find real (or mock) clients for teams of 2-3 learners to build a landing page
 for. These can be individuals, businesses, non-profits, ... TBD
