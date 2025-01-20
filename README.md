@@ -69,7 +69,7 @@ Learn the workflows you need to develop individually and in a group.
   **Collaborative Deliverable**:
   [Group Intro Repo](https://github.com/DeNepo/workflows/blob/main/deliverables/group-introduction-repo.md)
 
-### [2. Agile Development](https://github.com/hackyourfuturebelgium/agile-development): 2 weeks
+### [2. Agile Development](https://github.com/DeNepo/agile-development): 2 weeks
 
 > [check-ins](https://github.com/DeNepo/kiwi-pilot-sandbox/issues/?q=milestone%3A"2.%20Agile%20Development"+label%3Acheck-in)
 > |
@@ -82,22 +82,22 @@ Practice collaboratively planning and developing HTML/CSS websites.
 
 - **Week 1**: Chapters 0, 1 - Following Plans
   - Lesson Plan:
-    [Planning and Collaborating](https://github.com/HackYourFutureBelgium/agile-development/blob/master/lesson-plans/planning-and-collaborating.md)
+    [Planning and Collaborating](https://github.com/DeNepo/agile-development/blob/master/lesson-plans/planning-and-collaborating.md)
   - Deliverable:
-    [All About Trees](https://github.com/HackYourFutureBelgium/agile-development/blob/master/deliverables/all-about-trees)
+    [All About Trees](https://github.com/DeNepo/agile-development/blob/master/deliverables/all-about-trees)
 - **Week 2**: Chapter 2 - Writing Plans
   - Lesson Plan:
-    [User-Centered Development](https://github.com/HackYourFutureBelgium/agile-development/blob/master/lesson-plans/user-centered-development.md)
+    [User-Centered Development](https://github.com/DeNepo/agile-development/blob/master/lesson-plans/user-centered-development.md)
   - Deliverable:
-    [Loruki Rebuild](https://github.com/HackYourFutureBelgium/agile-development/blob/master/deliverables/loruki-rebuild.md)
+    [Loruki Rebuild](https://github.com/DeNepo/agile-development/blob/master/deliverables/loruki-rebuild.md)
 - **Break Week!**
 - **Week 3**: Chapter 3 - Adapting Plans
   - Lesson Plan:
-    [Being Agile](https://github.com/HackYourFutureBelgium/agile-development/blob/master/lesson-plans/being-agile.md)
+    [Being Agile](https://github.com/DeNepo/agile-development/blob/master/lesson-plans/being-agile.md)
   - Deliverable: Begin
-    [HYF Redesign](https://github.com/HackYourFutureBelgium/agile-development/blob/master/deliverables/hyf-redesign.md)
+    [HYF Redesign](https://github.com/DeNepo/agile-development/blob/master/deliverables/hyf-redesign.md)
 
-### [3. UX/UI Design](https://github.com/hackyourfuturebelgium/ux-ui-design): 3 weeks
+### [3. UX/UI Design](https://github.com/DeNepo/ux-ui-design): 3 weeks
 
 > [check-ins](https://github.com/DeNepo/kiwi-pilot-sandbox/issues/?q=milestone%3A"3.%20UX%2FUI%20Design"+label%3Acheck-in)
 > |
@@ -111,14 +111,14 @@ development process.
 
 - **Week 1**: Chapter 1
   - Lesson Plan:
-    [Design Thinking](https://github.com/HackYourFutureBelgium/ux-ui-design/blob/master/lesson-plans/design-thinking.md)
+    [Design Thinking](https://github.com/DeNepo/ux-ui-design/blob/master/lesson-plans/design-thinking.md)
   - Deliverable:
-    [Practical Case](https://github.com/HackYourFutureBelgium/ux-ui-design/blob/master/deliverables/practical-case.md)
+    [Practical Case](https://github.com/DeNepo/ux-ui-design/blob/master/deliverables/practical-case.md)
 - **Week 2**: Chapters 2, 3
   - Lesson Plan:
-    [Gestalt Principles & Figma](https://github.com/HackYourFutureBelgium/ux-ui-design/blob/master/lesson-plans/gestalt-and-figma.md)
+    [Gestalt Principles & Figma](https://github.com/DeNepo/ux-ui-design/blob/master/lesson-plans/gestalt-and-figma.md)
   - Deliverable:
-    [Co-Design your Home Page](https://github.com/HackYourFutureBelgium/ux-ui-design/blob/master/deliverables/co-design-your-home-page)
+    [Co-Design your Home Page](https://github.com/DeNepo/ux-ui-design/blob/master/deliverables/co-design-your-home-page)
 - **Week 3**: Chapter 4 - Accessibility
   - Lesson Plan: TBD
   - Deliverable: A fully accessible portfolio page co-developed with classmates.
