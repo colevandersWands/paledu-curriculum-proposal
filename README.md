@@ -95,11 +95,11 @@ development process.
   - Lesson Plan: TBD
   - Deliverable: A fully accessible portfolio page co-developed with classmates.
 
-### [4. Component Based Design with Next.js](): 
+### [4. Component Based Design with Next.js](https://github.com/DeNepo/component-based-design): 
 
 Learn to build static pages with component-based design & Next.js.
 
-### [5. Client Facing Project]():
+### [5. Client Facing Project](http://apricotinternational.org/):
 
 We find real (or mock) clients for teams of 2-3 learners to build a landing page
 for. These can be individuals, businesses, non-profits, ... TBD
